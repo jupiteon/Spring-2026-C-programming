@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/wera/Library/CloudStorage/GoogleDrive-250471@newuu.uz/My Drive/SPRING 26/GITHUB/Spring-2026-C-programming",
-      "program": "/Users/wera/Library/CloudStorage/GoogleDrive-250471@newuu.uz/My Drive/SPRING 26/GITHUB/Spring-2026-C-programming/build/Debug/outDebug"
+      "cwd": "/Users/wera/Library/CloudStorage/GoogleDrive-250471@newuu.uz/My Drive/SPRING 26/GITHUB/Spring-2026-C-programming/lab13",
+      "program": "/Users/wera/Library/CloudStorage/GoogleDrive-250471@newuu.uz/My Drive/SPRING 26/GITHUB/Spring-2026-C-programming/lab13/build/Debug/outDebug"
     }
   ]
 }
